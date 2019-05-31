@@ -1,0 +1,12 @@
+  double firstnum;
+  double secondnum;
+  double answer;
+  double operations;
+  
+  public calculator()(
+  initcomponents();
+  )
+  
+  Button set/up
+  string Enternumber = jtxDisplay.gettext() + jBtn "3".gettext();
+  
